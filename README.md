@@ -4,3 +4,5 @@
 ### 3. git status
 ## git commit -m "komentarz"
 ## git status
+
+##### trzecia zmiana w pliku
