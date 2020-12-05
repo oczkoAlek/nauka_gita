@@ -1,4 +1,5 @@
 ##Nauka gita
+
 ### 1. git status
 ## 2. git add README.md
 ### 3. git status
@@ -6,3 +7,4 @@
 ## git status
 
 ##### trzecia zmiana w pliku
+To jest czwarta zmiana w pliku
