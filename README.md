@@ -18,3 +18,5 @@ To jest czwarta zmiana w pliku
   <li>w konsoli git push origin master</li>
 
 </ol>
+
+<h3>Modyfikacja w przegladarce</h3>
