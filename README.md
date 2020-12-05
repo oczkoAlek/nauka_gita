@@ -10,3 +10,11 @@
 </ol>
 ##### trzecia zmiana w pliku
 To jest czwarta zmiana w pliku
+
+<h1>Jak wykonac push</h1>
+<ol>
+  <li>Dodac projekt w git hubie w przegladarce</li>
+  <li>w konsoli git remote add origin https:(tutaj wziety link z projektu w gihub)</li>
+  <li>w konsoli git push origin master</li>
+
+</ol>
