@@ -1,5 +1,5 @@
 <h1> ** Nauka gita** </h1>
-<img src="https://octodex.github.com/hulatocat/">
+<img src="https://octodex.github.com/images/saritocat.png">
 <h2>Kroki do wykonania</h2>
 <ol>
   <li> git status</li>
